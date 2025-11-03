@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Mogitagia.github.io/sitemap.xml
